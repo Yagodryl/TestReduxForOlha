@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRedux", "TestRedux\TestRedux.csproj", "{00EDC4E9-B155-4A0A-BA94-CE62BED4A59A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EDC4E9-B155-4A0A-BA94-CE62BED4A59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EDC4E9-B155-4A0A-BA94-CE62BED4A59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EDC4E9-B155-4A0A-BA94-CE62BED4A59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EDC4E9-B155-4A0A-BA94-CE62BED4A59A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10010ACB-C155-4E29-9DEA-31775AB9A4EA}
+	EndGlobalSection
+EndGlobal
